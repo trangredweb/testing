@@ -1,1 +1,1 @@
-<?php phpinfo();?> abc
+<?php phpinfo();?> abc def
